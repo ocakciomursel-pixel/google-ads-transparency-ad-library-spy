@@ -1,0 +1,21 @@
+{
+  "name": "google-ads-transparency-ad-library-spy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Audit competitor domains for Google Ads Transparency URLs, Google Ads Conversion IDs (AW-), GTM tags, Meta/LinkedIn/TikTok pixels, ads.txt SSPs & marketing contacts ($0.75/1k advertisers).",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "google-ads",
+    "ad-spy",
+    "competitor-analysis",
+    "marketing-automation",
+    "lead-generation",
+    "clay",
+    "n8n",
+    "mcp-server"
+  ],
+  "license": "MIT"
+}
