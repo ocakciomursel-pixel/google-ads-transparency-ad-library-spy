@@ -8,8 +8,8 @@ Audit competitor domains for Google Ads Transparency URLs, Google Ads Conversion
 
 - **Run Directly on Apify Store:** [https://apify.com/lucacelli/google-ads-transparency-ad-spy-scraper](https://apify.com/lucacelli/google-ads-transparency-ad-spy-scraper)
 - **Browser Cloud Playground & CSV Exporter:** [https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/)
-- **Clay.com 25-Column HTTP API Waterfall Pack (`$9`):** [Instant Download](https://buy.polar.sh/polar_cl_lDIkQ1BPDRI7qCNwAxGz8U0HlRs2higwma1EL1EYP5C)
-- **Full B2B Outbound Agency Pro Vault — Clay + 7x Chained n8n + Python SDK (`$19`):** [Unlock Full Pro Vault](https://buy.polar.sh/polar_cl_j0IOeyioFqMjcNZRqTo0Cqk6HGslU1yArpHUV47NP1j)
+- **Clay.com 25-Column HTTP API Waterfall Pack (`$9`):** [Instant Download](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)
+- **Full B2B Outbound Agency Pro Vault — Clay + 7x Chained n8n + Python SDK (`$19`):** [Unlock Full Pro Vault](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)
 
 ---
 
